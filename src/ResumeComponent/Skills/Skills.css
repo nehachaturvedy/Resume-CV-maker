@@ -1,0 +1,39 @@
+.skill-box{
+    border: #fff solid 2px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.skill-value > ul {
+    list-style: none;
+}
+
+.skill-value > ul > li {
+    background-color: #ffffff;
+    display: inline-flex;
+    flex-wrap: wrap;
+    padding: 2px 4px;
+    border-radius: 5px;
+    margin: 2px;
+}
+
+.skill-value > ul > li > button > .close-btn > i{
+    background-color: #262626;
+    border-radius: 50%;
+    width: 18px;
+    height: 18px;
+    margin-left: 4px;
+}
+
+.skill-value > ul > li > button{
+    border: none;
+    background: none;
+}
+
+.fa-close{
+    color: #ffffff;
+}
+
+.fa-close:before{
+    padding:2px;
+}
