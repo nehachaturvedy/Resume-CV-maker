@@ -41,10 +41,4 @@
 
 
 
-> Sandeep Shaw\
-> Student, C.S.E\
-> GCECT Kolkata
 
-Thank You !
-
-Have a nice Day :hugs:
